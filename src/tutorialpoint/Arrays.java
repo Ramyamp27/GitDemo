@@ -22,6 +22,9 @@ public class Arrays {
 		for (int i=0; i<n; i++)   
 		{  
 		System.out.println(array[i]); 
+		System.out.println("This is Arrays program");
+		System.out.println("This is going to commit");
+		
 		}
 
 	}
